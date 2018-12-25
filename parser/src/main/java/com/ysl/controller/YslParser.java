@@ -1,7 +1,7 @@
 /*
- * Purpose		: This jar is created to obtain JDBC trace for YSL component
- * Created by 	: YSL Performance Engineering Team
- * Usage Notes	: yslparser.jar [source file] -o [output folder path] 
+ * Purpose	: This jar is created to obtain JDBC trace for Java component
+ * Created by 	: Mohamed Ibrahim (rollno748@gmail.com)
+ * Usage Notes	: parser.jar [source file] -o [output folder path] 
  * 
  */
 
